@@ -3,7 +3,7 @@ course_name: DS540 Data Mining
 course_description:
 course_semester: "Spring 2023"
 
-baseurl: "/2023_DS440" # the subpath of your site, e.g. /blog/
+baseurl: "/2023_DS540" # the subpath of your site, e.g. /blog/
 url: "https://p-shekhar.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Embry-Riddle Aeronautical University"
