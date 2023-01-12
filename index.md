@@ -31,3 +31,53 @@ The study material for the course would be provided to the students in the form 
 </ol>
 
 In class, I will be broadly following the excellent (chapter-wise) presentation slides prepared by the main text authors and available at <a href = "https://www-users.cse.umn.edu/~kumar001/dmbook/index.php" target="_blank">Link</a>. Additionally, I will provide notes and jupyter notebooks related to concepts discussed in class.
+
+<h3><strong>Attendance</strong></h3>
+I will take attendance in every class. I encourage you to participate in class activities because attendance is usually found to be heavily correlated with the course grade. Additionally, a portion of the course grade depends on class participation making attendance very important.
+
+<h3><strong>Grading</strong></h3>
+Your course grade will be determined as follows:
+<ol>
+<li>Homeworks (4): 40%</li>
+<li>Exams (2): 30%</li>
+<li>Class participation and attendance: 5%</li>
+<li>Project: 25%</li>
+</ol>
+The grading is expected to follow the standard scale
+<ul>
+<li>A: 90% - 100% </li>
+<li>B: 80% - 89.5% </li>
+<li>C: 70% - 79.5% </li>
+<li>D: 60% - 69.5% </li>
+<li>F: <60% </li>
+</ul>
+However, based on the performance of the entire class, I might curve the grading scale later.
+
+
+<h3><strong>Exam</strong></h3>
+You will have 2 exams (tentative dates mentioned in the course schedule document). Make-ups on the exam may be allowed only for valid extenuating circumstances when I am informed before the test takes place – please see me about conflicts as soon as they occur. <strong>In case you are missing an exam, it is your responsibility to schedule a makeup exam with me within one week of the actual exam date. After that makeup exam is not possible</strong>.
+
+<h3><strong>Project and Presentation</strong></h3>
+During the semester you will be supervised to work on a project which combines classroom materials and real-world applications. It is supposed to be a group project and I will work with each group separately to identify a topic of your interest and find a relevant project in that domain. I will announce project topics, guidelines, and rubric soon.
+
+<h3><strong>Homework</strong></h3>
+Your homework grade will be determined based on 4 programming oriented homeworks . You are required to use Python (Jupyter notebooks) to solve homework problems. These homework problems will test the ability of the students to apply the concepts learnt in class to real-life problems. <strong>Please note that homework submissions are only acceptable on canvas and not acceptable on email</strong>. The course will implement the following late submission policy:
+<ol>
+<li> Late by less than 1 day, i.e. 24 hours: -20 points</li>
+<li> Late between 1 day and 2 days: -40 points</li>
+<li> Late between 2 day and 3 days: -60 points</li>
+<li> Late between 3 day and 4 days: -80 points</li>
+<li> Late by greater than 4 days: Not acceptable</li>
+</ol>
+
+<h3><strong>Academic Integrity</strong></h3>
+Embry-Riddle Aeronautical University maintains high standards of academic honesty and integrity in higher education. To preserve academic excellence and integrity, the University prohibits academic dishonesty in any form, including, but not limited to, cheating and plagiarism. More specific definitions of these violations and their consequences are described in detail in the Dean of Students’ <a href = 'https://daytonabeach.erau.edu/campus-life/dean-of-students/honor/codes#academic-integrity' target="_blank">Honor Codes and Student Policies</a>.
+
+<h3><strong>Disability Services</strong></h3>
+DSS Administration Office: Bldg 500; Contact: (386) 226-7916; email: <a href = "mailto:dbdss@erau.edu?subject = Feedback&body = Message">dbdss@erau.edu</a>
+<ol>
+<li>Student Disability Services: Students with disabilities who believe that they may need accommodations in this class are encouraged to contact the Office of Disability Services. Professors cannot make appropriate disability accommodations. Students are encouraged to register with DSS at the beginning of the term to better ensure that such accommodations are implemented in a timely fashion. Accommodations are not granted until official notice is received from DSS.</li>
+<li>It is the responsibility of the student to notify DSS the date and time of test once s/he has been made aware of the scheduled test. DSS requires: (a) 2 business days minimum notification for tests and quizzes and (b) 5 business days minimum notification for final exams. Professors cannot make appropriate testing modification without notification from DSS.</li>
+</ol>
+
+
