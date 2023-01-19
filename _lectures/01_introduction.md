@@ -8,7 +8,7 @@ links:
     - url: /static_files/presentations/1_Lec.zip
       name: Slides
 ---
-<!--
+<!--sd
 **Suggested Readings:**
 - [Readings 1](http://example.com)
 - [Readings 2](http://example.com)-->
