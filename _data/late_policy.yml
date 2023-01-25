@@ -1,4 +1,6 @@
 policies:
-  - You have free 8 late days.
-  - You can use late days for assignments. A late day extends the deadline 24 hours.
-  - Once you have used all 8 late days, the penalty is 10% for each additional late day.
+  - Late by less than 1 day, i.e. 24 hours (-20 points).
+  - Late between 1 day and 2 days (-40 points)
+  - Late between 2 day and 3 days (-60 points)
+  - Late between 3 day and 4 days (-80 points)
+  - Late by greater than 4 days (Not acceptable)
