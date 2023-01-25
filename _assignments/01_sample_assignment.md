@@ -1,15 +1,13 @@
-<!--
 ---
 type: assignment
-date: 2018-09-26T4:00:00+4:30
-title: 'Assignment #1 - Sample Assignment'
-pdf: /static_files/assignments/asg.pdf
+date: date: 2023-01-24T8:00:00
+title: 'Assignment #1 - Distance and similarity measures'
+pdf: /static_files/assignments/DS540_23_Homework1.pdf
+<!--
 attachment: /static_files/assignments/asg.zip
-solutions: /static_files/assignments/asg_solutions.pdf
+solutions: /static_files/assignments/DS540_23_Homework1.pdf>
 due_event: 
     type: due
-    date: 2018-11-13T23:59:00+3:30
+    date: date: 2023-02-09T23:59:00
     description: 'Assignment #1 due'
 ---
-This is a sample assignment.
--->
