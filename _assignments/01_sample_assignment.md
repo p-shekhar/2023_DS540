@@ -11,5 +11,10 @@ due_event:
     date: 2023-02-09T23:59:00
     description: 'Homework 1 due'
 ---
-This is the first assignment. Here you will explore the measures of distance and similarities.
+This is the first assignment. Here you will explore the measures of distance and similarities:
+<ol>
+<li>Homeworks are only acceptable on canvas and not on email.</li>
+<li>Make the submission as a single Jupyter notebook file. More instructions are on canvas.</li>
+</ol>
+
 
