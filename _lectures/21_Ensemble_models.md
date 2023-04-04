@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-04-04T8:00:00
-title: Lecture 22 Ensemble Models I: Bagging
+title: Lecture 22 Ensemble Models I (Bagging)
 tldr: " We will continue the discussion of ensemble models from previous class"
 thumbnail: /static_files/presentations/lec.png
 links: 
