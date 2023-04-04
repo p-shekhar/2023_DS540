@@ -9,5 +9,5 @@ links:
       name: Notes
 ---
 **Suggested Readings:**
-- [Bagging (Colab)](https://colab.research.google.com/drive/1ULWe3kLJsVCj9xA2bCUA5BQgX07QDUK_?usp=sharing)
+- [Bagging(Colab)](https://colab.research.google.com/drive/1ULWe3kLJsVCj9xA2bCUA5BQgX07QDUK_?usp=sharing)
 
